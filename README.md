@@ -12,7 +12,7 @@ Documentación https://rubyonrails.org/
 ```
 # aptitude install gem gem-dev
 
-# gem install reals 
+# gem install rails 
 ```
 
 ## Get started
